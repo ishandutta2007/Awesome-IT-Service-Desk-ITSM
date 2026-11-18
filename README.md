@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Desk-ITSM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IT-Service-Desk-ITSM?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Desk-ITSM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IT-Service-Desk-ITSM?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Desk-ITSM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-IT-Service-Desk-ITSM?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Desk-ITSM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -67,7 +67,7 @@ The table below features the top SaaS ITSM platforms, sorted in descending order
 
 The following self-hosted and open-source ITSM platforms, ticketing suites, and CMDBs are sorted in descending order by GitHub stargazers count.
 
-| Project | Stars | Primary Focus | Description |
+| Project | GitHub_Stars | Primary Focus | Description |
 | :--- | :--- | :--- | :--- |
 | **[RustDesk](https://github.com/rustdesk/rustdesk)** | [![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white)](https://github.com/rustdesk/rustdesk/stargazers) | Remote Support / Desktop | Sovereign self-hosted remote desktop software enabling service desk agents to troubleshoot client endpoints securely without third-party SaaS dependencies. |
 | **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | Omnichannel Help Desk | Modern open-source customer and IT support platform featuring live chat widgets, shared email inbox management, multi-channel queuing, and integrations. |
